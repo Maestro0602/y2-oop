@@ -1,0 +1,3 @@
+John|Doe|M|john@domain.com|Math|50000.0
+Tola|Ma|M|tola@domain.com|OOP, C++, Web dev|100.0
+Tola|Ma|M|tola@domain.com|OOP, C++, Web dev|100.0
